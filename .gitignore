@@ -1,0 +1,13 @@
+### IntelliJ/Android Studio ###
+
+# - metadata
+/.idea/
+*.iml
+
+### Gradle ###
+
+# - temporary files
+/.gradle/
+
+# - build output
+/build/
